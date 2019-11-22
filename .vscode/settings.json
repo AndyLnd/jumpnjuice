@@ -1,0 +1,17 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "editor.tabSize": 2,
+  "editor.fontFamily": "'Roboto Mono',Monaco, 'Ubuntu Mono', Consolas, 'Fira Code', 'Dejavu Sans Mono', 'Courier New', monospace",
+  "editor.formatOnSave": true,
+  "editor.fontLigatures": true,
+  "editor.tabCompletion": "on",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "html"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "prettier.singleQuote": true,
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
