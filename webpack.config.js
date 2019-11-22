@@ -8,7 +8,7 @@ module.exports = {
   entry: './src/index.ts',
   devtool: 'cheap-module-eval-source-map',
   output: {
-    publicPath: '/build/',
+    publicPath: '/',
     path: path.resolve(__dirname, 'build'),
     filename: '[name].bundle.js',
   },
